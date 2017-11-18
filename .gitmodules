@@ -1,0 +1,4 @@
+[submodule "pytorch-deconvnet"]
+	path = pytorch-deconvnet
+	url = https://github.com/BorisLestsov/pytorch-deconvnet.git
+	branch = master
